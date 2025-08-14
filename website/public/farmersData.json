@@ -1,0 +1,184 @@
+[
+  {
+    "farmerId": 101,
+    "name": "Ramesh Kumar",
+    "state": "Punjab",
+    "crop": "Wheat",
+    "areaHectares": 5,
+    "productionQuintals": 200,
+    "year": "2022-23"
+  },
+  {
+    "farmerId": 102,
+    "name": "Sita Devi",
+    "state": "Maharashtra",
+    "crop": "Sugarcane",
+    "areaHectares": 3,
+    "productionQuintals": 150,
+    "year": "2022-23"
+  },
+  {
+    "farmerId": 103,
+    "name": "Anil Singh",
+    "state": "Uttar Pradesh",
+    "crop": "Rice",
+    "areaHectares": 4,
+    "productionQuintals": 180,
+    "year": "2022-23"
+  },
+  {
+    "farmerId": 104,
+    "name": "Lakshmi Narayan",
+    "state": "Karnataka",
+    "crop": "Maize",
+    "areaHectares": 2,
+    "productionQuintals": 90,
+    "year": "2022-23"
+  },
+  {
+    "farmerId": 105,
+    "name": "Pooja Sharma",
+    "state": "Rajasthan",
+    "crop": "Barley",
+    "areaHectares": 3.5,
+    "productionQuintals": 110,
+    "year": "2022-23"
+  },
+  {
+    "farmerId": 106,
+    "name": "Vijay Patel",
+    "state": "Gujarat",
+    "crop": "Cotton",
+    "areaHectares": 6,
+    "productionQuintals": 250,
+    "year": "2022-23"
+  },
+  {
+    "farmerId": 107,
+    "name": "Radha Kumari",
+    "state": "Bihar",
+    "crop": "Pulses",
+    "areaHectares": 2.5,
+    "productionQuintals": 85,
+    "year": "2022-23"
+  },
+  {
+    "farmerId": 108,
+    "name": "Suresh Rao",
+    "state": "Telangana",
+    "crop": "Chili",
+    "areaHectares": 1.8,
+    "productionQuintals": 60,
+    "year": "2022-23"
+  },
+  {
+    "farmerId": 109,
+    "name": "Meena Gupta",
+    "state": "Haryana",
+    "crop": "Mustard",
+    "areaHectares": 2.7,
+    "productionQuintals": 95,
+    "year": "2022-23"
+  },
+  {
+    "farmerId": 110,
+    "name": "Arjun Desai",
+    "state": "Madhya Pradesh",
+    "crop": "Soybean",
+    "areaHectares": 4.2,
+    "productionQuintals": 170,
+    "year": "2022-23"
+  },
+  
+  {
+    "farmerId": 111,
+    "name": "Deepak Verma",
+    "state": "Odisha",
+    "crop": "Pulses",
+    "areaHectares": 2.5,
+    "productionQuintals": 19,
+    "year": 2023
+  },
+  {
+    "farmerId": 112,
+    "name": "Neha Joshi",
+    "state": "Karnataka",
+    "crop": "Maize",
+    "areaHectares": 3.1,
+    "productionQuintals": 24,
+    "year": 2022
+  },
+  {
+    "farmerId": 113,
+    "name": "Suresh Naik",
+    "state": "Goa",
+    "crop": "Cashew",
+    "areaHectares": 1.8,
+    "productionQuintals": 14,
+    "year": 2021
+  },
+  {
+    "farmerId": 114,
+    "name": "Ritu Singh",
+    "state": "Jharkhand",
+    "crop": "Rice",
+    "areaHectares": 2.0,
+    "productionQuintals": 16,
+    "year": 2020
+  },
+  {
+    "farmerId": 115,
+    "name": "Vishal Kumar",
+    "state": "Chhattisgarh",
+    "crop": "Soybean",
+    "areaHectares": 4.0,
+    "productionQuintals": 33,
+    "year": 2023
+  },
+  {
+    "farmerId": 116,
+    "name": "Priya Rani",
+    "state": "Assam",
+    "crop": "Tea",
+    "areaHectares": 1.5,
+    "productionQuintals": 10,
+    "year": 2022
+  },
+  {
+    "farmerId": 117,
+    "name": "Arjun Patel",
+    "state": "Gujarat",
+    "crop": "Cotton",
+    "areaHectares": 3.7,
+    "productionQuintals": 29,
+    "year": 2021
+  },
+  {
+    "farmerId": 118,
+    "name": "Sonal Mehta",
+    "state": "Rajasthan",
+    "crop": "Mustard",
+    "areaHectares": 2.9,
+    "productionQuintals": 21,
+    "year": 2023
+  },
+  {
+    "farmerId": 119,
+    "name": "Karan Joshi",
+    "state": "Maharashtra",
+    "crop": "Sugarcane",
+    "areaHectares": 5.5,
+    "productionQuintals": 47,
+    "year": 2020
+  },
+  {
+    "farmerId": 120,
+    "name": "Sunita Desai",
+    "state": "Madhya Pradesh",
+    "crop": "Wheat",
+    "areaHectares": 3.4,
+    "productionQuintals": 26,
+    "year": 2022
+  }
+]
+

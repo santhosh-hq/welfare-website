@@ -1,0 +1,87 @@
+.signup-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  max-width: 1100px;
+  margin: auto;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.signup-form {
+  flex: 1;
+  min-width: 300px;
+}
+
+.signup-form h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+  color: #1b5e20;
+}
+
+.signup-form form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.signup-form label {
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+  font-size: 0.95rem;
+}
+
+.signup-form input {
+  padding: 0.5rem;
+  margin-top: 0.4rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.btn {
+  padding: 0.6rem;
+  background-color: #007b5e;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #005c47;
+}
+
+/* Image container for circle halves */
+.signup-image {
+  flex: 1;
+  display: flex;
+  min-width: 300px;
+  max-width: 400px;
+  height: 400px;
+  overflow: hidden;
+  border-radius: 50%;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.signup-image-1,
+.signup-image-2 {
+  flex: 1;
+  height: 100%;
+}
+
+.signup-image-1 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50% 0 0 50%;
+}
+
+.signup-image-2 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 0 50% 50% 0;
+}
+

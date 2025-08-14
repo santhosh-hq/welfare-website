@@ -1,0 +1,41 @@
+.carousel-container {
+  overflow: hidden;
+  width: 100%;
+  background: #fff;
+  padding: 20px 0;
+}
+
+.carousel-track {
+  display: flex;
+  animation: scroll 12s linear infinite;
+}
+
+.carousel-item {
+  flex: 0 0 auto;
+  width: 160px; /* fixed width for consistency */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-item img {
+  max-width: 120px;
+  max-height: 60px;
+  object-fit: contain; /* keeps logos proportional */
+  filter: grayscale(20%);
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.carousel-item img:hover {
+  transform: scale(1.05);
+  filter: grayscale(0%);
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%); /* matches duplicated images */
+  }
+}

@@ -1,0 +1,59 @@
+.dashboard-container {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 2rem auto;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.dashboard-container h1 {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.dashboard-container p {
+  color: #2c3e50;
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
+
+.dashboard-container section h2 {
+  color: #34495e;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.dashboard-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.dashboard-container ul li {
+  margin: 0.5rem 0;
+}
+
+.dashboard-container ul li a {
+  text-decoration: none;
+  color: #3498db;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.dashboard-container ul li a:hover {
+  color: #1d6fa5;
+}
+.dashboard-container {
+  background-image: url('https://wallpaperaccess.com/full/6368341.jpg');
+  background-size: fill;
+  background-position: center;
+  min-height: 100vh;
+  padding: 2rem;
+  color: white;
+  overflow-y: auto;
+}
+table, input {
+  background-color: rgba(255, 255, 255, 0.85); /* white with some transparency */
+  color: #000;
+}
